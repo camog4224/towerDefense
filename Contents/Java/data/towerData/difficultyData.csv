@@ -1,0 +1,5 @@
+bombCoolDown,healthIncrease,winCondition,minBombTime,mobNumIncrease,speed
+51,2,40,20,1,20
+25,3,50,50,2,20
+20,4,60,100,3,25
+10,5,70,150,4,30
